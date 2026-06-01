@@ -12,3 +12,4 @@ C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\ToDoList\obj\Debug\net10.0\refint\T
 C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\ToDoList\obj\Debug\net10.0\ToDoList.pdb
 C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\ToDoList\obj\Debug\net10.0\ToDoList.genruntimeconfig.cache
 C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\ToDoList\obj\Debug\net10.0\ref\ToDoList.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\ToDoList\obj\Debug\net10.0\ToDoList.sourcelink.json
