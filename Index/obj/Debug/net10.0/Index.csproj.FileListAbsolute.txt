@@ -1,0 +1,14 @@
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\bin\Debug\net10.0\Index.exe
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\bin\Debug\net10.0\Index.deps.json
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\bin\Debug\net10.0\Index.runtimeconfig.json
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\bin\Debug\net10.0\Index.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\bin\Debug\net10.0\Index.pdb
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\obj\Debug\net10.0\Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\obj\Debug\net10.0\Index.AssemblyInfoInputs.cache
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\obj\Debug\net10.0\Index.AssemblyInfo.cs
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\obj\Debug\net10.0\Index.csproj.CoreCompileInputs.cache
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\obj\Debug\net10.0\Index.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\obj\Debug\net10.0\refint\Index.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\obj\Debug\net10.0\Index.pdb
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\obj\Debug\net10.0\Index.genruntimeconfig.cache
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\Index\obj\Debug\net10.0\ref\Index.dll
