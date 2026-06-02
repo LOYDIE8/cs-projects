@@ -1,0 +1,15 @@
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\bin\Debug\net10.0\Banking.exe
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\bin\Debug\net10.0\Banking.deps.json
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\bin\Debug\net10.0\Banking.runtimeconfig.json
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\bin\Debug\net10.0\Banking.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\bin\Debug\net10.0\Banking.pdb
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\Banking.AssemblyInfoInputs.cache
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\Banking.AssemblyInfo.cs
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\Banking.sourcelink.json
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\Banking.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\refint\Banking.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\Banking.pdb
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\Banking.genruntimeconfig.cache
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\banking\obj\Debug\net10.0\ref\Banking.dll
