@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\banking\\Banking.csproj": {}
+    "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\Banking\\Banking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\banking\\Banking.csproj": {
+    "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\Banking\\Banking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\banking\\Banking.csproj",
+        "projectUniqueName": "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\Banking\\Banking.csproj",
         "projectName": "Banking",
-        "projectPath": "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\banking\\Banking.csproj",
+        "projectPath": "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\Banking\\Banking.csproj",
         "packagesPath": "C:\\Users\\Capecenio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\banking\\obj\\",
+        "outputPath": "C:\\Users\\Capecenio\\Desktop\\MYPROJECTS\\c# QDD\\Banking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
