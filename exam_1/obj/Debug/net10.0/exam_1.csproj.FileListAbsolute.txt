@@ -1,0 +1,15 @@
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\bin\Debug\net10.0\exam_1.exe
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\bin\Debug\net10.0\exam_1.deps.json
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\bin\Debug\net10.0\exam_1.runtimeconfig.json
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\bin\Debug\net10.0\exam_1.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\bin\Debug\net10.0\exam_1.pdb
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\exam_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\exam_1.AssemblyInfoInputs.cache
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\exam_1.AssemblyInfo.cs
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\exam_1.csproj.CoreCompileInputs.cache
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\exam_1.sourcelink.json
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\exam_1.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\refint\exam_1.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\exam_1.pdb
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\exam_1.genruntimeconfig.cache
+C:\Users\Capecenio\Desktop\MYPROJECTS\c# QDD\exam_1\obj\Debug\net10.0\ref\exam_1.dll
